@@ -146,3 +146,36 @@ test_cases:
 - response: 7E8044131016D
   expected_values:
     CLR_DIST: 365
+- response: 7E8044131018E
+  expected_values:
+    CLR_DIST: 398
+- response: 7E8044131018F
+  expected_values:
+    CLR_DIST: 399
+- response: 7E8044131019C
+  expected_values:
+    CLR_DIST: 412
+- response: 7E8044131019D
+  expected_values:
+    CLR_DIST: 413
+- response: 7E8044131019E
+  expected_values:
+    CLR_DIST: 414
+- response: 7E8044131019F
+  expected_values:
+    CLR_DIST: 415
+- response: 7E804413101A0
+  expected_values:
+    CLR_DIST: 416
+- response: 7E804413101A8
+  expected_values:
+    CLR_DIST: 424
+- response: 7E804413101A9
+  expected_values:
+    CLR_DIST: 425
+- response: 7E804413101AA
+  expected_values:
+    CLR_DIST: 426
+- response: 7E804413101AB
+  expected_values:
+    CLR_DIST: 427
