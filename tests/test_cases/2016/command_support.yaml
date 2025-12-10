@@ -62,7 +62,11 @@ supported_commands_by_ecu:
   - 0131:CLR_DIST
   - 0142:VPWR
   - 0149:APP_D
+  - 7E1.7E9.0104
+  - 7E1.7E9.0105
+  - 7E1.7E9.010D
   - 7E1.7E9.0131
+  - 7E1.7E9.0142
 unsupported_commands_by_ecu:
   "6B4":
   - 6B4.694.22D410:JEEP_HVBAT_SOC
@@ -80,10 +84,6 @@ unsupported_commands_by_ecu:
   "7AB":
   - 7AB.52B.222802|fc=1:JEEP_GPS_HEADING,JEEP_GPS_SATS_TRACKED,JEEP_GPS_SATS_VISIBLE
   "7E1":
-  - 7E1.7E9.0104
-  - 7E1.7E9.0105
-  - 7E1.7E9.010D
-  - 7E1.7E9.0142
   - 7E1.7E9.2204FE:JEEP_ATF_T
   - 7E1.7E9.225503|fc=1:JEEP_GEAR
   - 7E1.7E9.225504|fc=1:JEEP_GEAR_TARGET
