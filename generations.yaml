@@ -1,5 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Patriot"
+
 generations:
-  - name: "First Generation (MK74)"
+  - name: "First Generation (2007-2010)"
     start_year: 2007
+    end_year: 2010
+    description: "The Jeep Patriot was introduced alongside the Jeep Compass as Jeep's entry-level compact SUV. Built on the GS platform shared with the Dodge Caliber, it featured traditional boxy Jeep styling referencing the Cherokee (XJ). Powered by a 2.0L or 2.4L four-cylinder engine paired with either a 5-speed manual, automatic transmission, or CVT. Front-wheel drive was standard with two four-wheel drive systems available: Freedom Drive I for light-duty capability and Freedom Drive II with low-range mode earning the 'Trail Rated' designation. The interior featured hard plastics and basic design that received criticism."
+  - name: "First Generation (2011 Facelift)"
+    start_year: 2011
+    end_year: 2013
+    description: "The Patriot received minor interior and exterior upgrades for 2011. Front fog lamps were shrunken and relocated, grill redesigned, and 'Patriot' lettering on rear bumper was removed. Interior materials and styling improved significantly. Three trims offered: Sport, Latitude, and Limited. In Europe, four trims were offered including an Overland version. The 2.0L Volkswagen diesel was replaced by a 2.2L Mercedes-Benz diesel for European markets. Special editions included the 70th Anniversary Edition (2011), Altitude Edition (2012), and Freedom Edition (2013)."
+  - name: "First Generation (2014-2017)"
+    start_year: 2014
     end_year: 2017
-    description: "The Jeep Patriot was introduced alongside the more car-like Compass as Jeep's entry-level compact SUV offerings. Built on the GS platform shared with the Dodge Caliber and Jeep Compass, it featured traditional, boxy Jeep styling that referenced the Cherokee (XJ), despite its car-based underpinnings. Powered primarily by a 2.0L or 2.4L four-cylinder engine, depending on trim level and drive configuration, paired with either a manual transmission, conventional automatic, or continuously variable transmission (CVT). Front-wheel drive was standard with two different four-wheel drive systems available: Freedom Drive I for light-duty all-weather capability, and the more capable Freedom Drive II with a low range mode that earned the 'Trail Rated' designation. The interior was initially criticized for hard plastics and basic design, though a significant refresh in 2011 improved materials, styling, and feature content. Despite its limited ground clearance and approach/departure angles compared to traditional Jeeps, properly equipped Patriots with Freedom Drive II offered respectable off-road capability for the compact crossover segment. Another refresh in 2014 replaced the CVT with a conventional six-speed automatic transmission. Throughout its lengthy production run without major changes, the Patriot maintained its position as the most affordable vehicle in Jeep's lineup, appealing to budget-conscious buyers seeking traditional Jeep styling in an economical, fuel-efficient package. Production ended in late 2016 (as a 2017 model) with no direct replacement, as Jeep consolidated its compact SUV offerings with the second-generation Compass."
+    description: "For the 2014 model year, Freedom Drive I Patriots received a Hyundai 6-speed automatic transmission replacing the CVT. Despite being essentially unchanged as it entered its 11th model year and still selling well, production ended in December 2016 with the remainder marketed as '2017' model year. The Patriot was replaced by the second-generation Jeep Compass alongside the first-generation Compass."
